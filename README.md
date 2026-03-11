@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Adekunle Micheal!
+# 🌟 Hi there, I'm Micheal Adekunle!
 
 🚀 **Software Engineer**  
 
