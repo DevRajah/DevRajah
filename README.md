@@ -33,8 +33,6 @@ Unlocking digital potential, one line of code at a time. I'm a backend developer
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRajah&layout=compact&theme=tokyonight)
 
-## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DevRajah&theme=onedark)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRajah&theme=tokyo-night)
