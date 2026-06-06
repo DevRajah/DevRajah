@@ -25,7 +25,7 @@ Unlocking digital potential, one line of code at a time. I'm a backend developer
 # 🚀 DevRajah
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://ghstats.dev/api/card?username=DevRajah&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRajah&theme=tokyonight)
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DevRajah&theme=tokyonight)](https://git.io/streak-stats)
