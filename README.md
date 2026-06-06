@@ -31,7 +31,7 @@ Unlocking digital potential, one line of code at a time. I'm a backend developer
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DevRajah&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRajah&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevRajah&theme=tokyonight)
 
 
 ## 📈 Activity Graph
