@@ -11,7 +11,8 @@ Unlocking digital potential, one line of code at a time. I'm a backend developer
 ### 🚀 Core Technologies  
 
 - **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)    
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=blue)
 
 - **Backend Frameworks & ORMs:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
