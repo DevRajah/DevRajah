@@ -10,9 +10,6 @@ Unlocking digital potential, one line of code at a time. I'm a backend developer
 
 ### 🚀 Core Technologies
 
-* **Languages:**
-*  <img src="https://shields.io" alt="JavaScript" vertical-align="middle" /> <img src="https://shields.io" alt="TypeScript" vertical-align="middle" />
-
 - **Languages:** 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=blue)
