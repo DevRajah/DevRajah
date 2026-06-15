@@ -150,7 +150,7 @@ const openSourceContributions = [
 ```ts
 const publicImpact = {
   publishedPackage: "@michealadekunle/backend-forge",
-  npmDownloads: "1,600+",
+  npmDownloads: "1,700+",
   openSourceContributions: "6+",
   majorProjects: "6+",
   focus:
