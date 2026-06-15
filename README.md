@@ -50,7 +50,7 @@ const engineeringImpact = [
   {
     project: "Backend Forge",
     category: "Developer Tooling",
-    impact: "Published backend scaffolding CLI with 1,600+ npm downloads",
+    impact: "Published backend scaffolding CLI with 1,700+ npm downloads",
     stack: ["Node.js", "TypeScript", "CLI", "Express", "MongoDB", "Redis"],
   },
   {
