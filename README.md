@@ -50,7 +50,7 @@ const engineeringImpact = [
   {
     project: "Backend Forge",
     category: "Developer Tooling",
-    impact: "Published backend scaffolding CLI with 1,700+ npm downloads",
+    impact: "Published backend scaffolding CLI with 1,800+ npm downloads",
     stack: ["Node.js", "TypeScript", "CLI", "Express", "MongoDB", "Redis"],
   },
   {
@@ -150,7 +150,7 @@ const openSourceContributions = [
 ```ts
 const publicImpact = {
   publishedPackage: "@michealadekunle/backend-forge",
-  npmDownloads: "1,700+",
+  npmDownloads: "1,800+",
   openSourceContributions: "6+",
   majorProjects: "6+",
   focus:
