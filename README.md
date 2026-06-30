@@ -1116,38 +1116,59 @@ const mindset = {
 ---
 
 
-# 🏅 Engineering Timeline
-
-Every project I build represents another step towards becoming a stronger backend engineer. Rather than building unrelated applications, I intentionally choose projects that allow me to explore distributed systems, backend architecture, developer tooling and software engineering best practices.
+# 🏅 Engineering Milestones
 
 ```text
-2024
+Backend Foundations
 │
-├── Strengthened backend engineering fundamentals
-├── Built production-style REST APIs
-├── Explored authentication, databases and API architecture
+├── REST API Design
+├── Authentication & Authorization
+├── Database Design
+└── Production Backend Development
+
+↓
+
+Distributed Systems
 │
-2025
+├── Redis
+├── BullMQ
+├── Background Workers
+├── Queue Processing
+└── Event-Driven Architecture
+
+↓
+
+Developer Tooling
 │
-├── Published Backend Forge to npm
-├── Built LedgerFlow
-├── Implemented distributed workers using BullMQ
-├── Began contributing to Open Source
-├── Started writing technical engineering content
+└── Published Backend Forge to npm
+
+↓
+
+Platform Engineering
 │
-2026
+├── LedgerFlow
+├── ArcHive
+├── GridWise
+└── TransitIQ
+
+↓
+
+Research & Engineering Evaluation
 │
-├── Built ArcHive
-├── Built GridWise
-├── Built TransitIQ
-├── Developed Privacy Verification Platform
-├── Added Swagger / OpenAPI documentation
-├── Implemented automated integration testing
-├── Performed OWASP ZAP security evaluation
-├── Benchmarked APIs with Apache JMeter
-├── Continued contributing to major OSS projects
+├── Privacy Verification Platform
+├── Swagger / OpenAPI
+├── Jest & Supertest
+├── OWASP ZAP
+└── Apache JMeter
+
+↓
+
+Today
 │
-└── Continuing to build backend systems that solve real engineering problems.
+├── Open Source
+├── Technical Writing
+├── Backend Architecture
+└── Distributed Systems
 ```
 
 ---
