@@ -208,8 +208,7 @@ JMeter](https://img.shields.io/badge/Apache_JMeter-111827?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
-
+![NPM](https://img.shields.io/badge/NPM-111827?style=for-the-badge&logo=npm)
 ---
 
 ## 📊 `src/pages/GitHubStats.tsx`
