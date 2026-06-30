@@ -12,7 +12,6 @@ Building scalable backend systems, developer tools, and real-time platforms with
 
 </div>
 
-### Backend Software Engineer | Distributed Systems Builder | Open Source Contributor
 
 ---
 
