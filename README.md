@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Micheal Adekunle
 
-### Backend Software Engineer | Distributed Systems Builder | Open Source Contributor
+> Backend Software Engineer • Distributed Systems Builder • Open Source
+> Contributor
 
 Building scalable backend systems, developer tools, and real-time platforms with **Node.js**, **TypeScript**, **PostgreSQL**, **Redis**, **BullMQ**, and **Docker**.
 
@@ -10,6 +11,8 @@ Building scalable backend systems, developer tools, and real-time platforms with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Micheal_Adekunle-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/micheal-adekunle-b02b96291)
 
 </div>
+
+### Backend Software Engineer | Distributed Systems Builder | Open Source Contributor
 
 ---
 
