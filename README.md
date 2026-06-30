@@ -7,9 +7,6 @@
 
 Building scalable backend systems, developer tools, and real-time platforms with **Node.js**, **TypeScript**, **PostgreSQL**, **Redis**, **BullMQ**, and **Docker**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevRajah-7c3aed?style=for-the-badge&logo=github)](https://github.com/DevRajah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micheal_Adekunle-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/micheal-adekunle-b02b96291)
-
 </div>
 
 
@@ -191,6 +188,19 @@ const publicImpact = {
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge)
+
+## Testing, Security & API Quality
+
+![Jest](https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest)
+![Supertest](https://img.shields.io/badge/Supertest-111827?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-111827?style=for-the-badge&logo=swagger)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-111827?style=for-the-badge&logo=openapiinitiative)
+![OWASP
+ZAP](https://img.shields.io/badge/OWASP_ZAP-111827?style=for-the-badge)
+![Apache
+JMeter](https://img.shields.io/badge/Apache_JMeter-111827?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
+
 
 ### Infrastructure & Tools
 
