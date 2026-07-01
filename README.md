@@ -1666,6 +1666,29 @@ It's about making the next engineer smile when they open the project.
 
 ---
 
+## 📊 `src/pages/GitHubStats.tsx`
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRajah&theme=tokyonight)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRajah&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevRajah&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevRajah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 `src/pages/Contributions.tsx`
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRajah&theme=tokyo-night&hide_border=true)
+
+---
+
+
 <div align="center">
 
 ### Thanks for stopping by.
