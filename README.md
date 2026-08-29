@@ -152,7 +152,7 @@ Starting every backend project from scratch often involves recreating the same b
 
 **Impact**
 
-- 📦 Published on npm and fast growing among developers
+- 📦 Published on npm
 - 🌍 Used by developers through `npx`
 - ⚙ Continually evolving with new backend capabilities
 
