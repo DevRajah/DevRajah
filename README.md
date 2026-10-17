@@ -130,7 +130,7 @@ Rather than building isolated applications, I enjoy solving engineering problems
 
 > **A production-ready backend scaffolding CLI for Node.js developers.**
 
-Backend Forge was built to eliminate repetitive backend setup by generating production-ready project structures with modern engineering practices built in from day one.
+Backend Forge was built to eliminate repetitive backend setup by generating production-ready project structures with modern engineering practices built in from day one.. 
 
 ### Engineering Highlights
 
