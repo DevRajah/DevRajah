@@ -98,7 +98,7 @@ const engineeringPrinciples = [
     "Security should be designed into the architecture.",
     "Measure performance instead of assuming it.",
     "Developer experience is a feature.",
-    "Build software that engineers enjoy maintaining."
+    "Build software that engineers enjoy maintaining.."
 ];
 ```
 
